@@ -8,5 +8,4 @@ func main() {
 		sum += i
 	}
 	fmt.Println("1+2+...+100 =", sum)
-
 }
