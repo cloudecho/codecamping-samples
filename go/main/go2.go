@@ -17,7 +17,7 @@ func accumulate(start int, end int) int {
 }
 
 
-func factorial( n int) int {
+func factorial(n int) int {
 	if n == 0 {
 		return 1
 	} else {
